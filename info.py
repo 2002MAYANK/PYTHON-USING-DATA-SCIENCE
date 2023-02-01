@@ -1,0 +1,8 @@
+name=input('enter name')
+DOB=input('enter date of birth')
+city=input('enter city')
+college=input('enter college')
+fav_colour=input('enter fav colour')
+fav_animal=input('enter animal')
+fav_song=input('enter song')
+print(name,city,college)
