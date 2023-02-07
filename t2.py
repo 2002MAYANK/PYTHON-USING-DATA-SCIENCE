@@ -1,0 +1,22 @@
+from turtle import*
+
+speed('slowest')
+width(4)
+left(72)   
+dot(25)    
+forward(100)   
+left(72)
+dot(25)
+forward(100)
+left(72)
+dot(25)
+forward(100)
+left(72)
+dot(25)
+forward(100)
+pencolor('red')
+left(72)
+dot(25)
+forward(100)
+
+mainloop()
