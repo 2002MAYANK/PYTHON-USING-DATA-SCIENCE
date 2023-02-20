@@ -1,4 +1,6 @@
 import pgzrun
+WIDTH=1200
+HEIGHT=700
 box= Rect((50,50),(150,100))
 box2= Rect((600,50),(100,100))
 box3=Rect((50,400),(150,150))
